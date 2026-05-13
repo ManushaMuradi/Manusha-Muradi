@@ -3,8 +3,6 @@ My name is Manusha Muradi, and I am currently pursuing my Bachelor of Technology
 I have a strong interest in Full Stack Development and Artificial Intelligence. I am skilled in C, Python, Java, and web technologies such as React.js, Node.js, Express.js, and MongoDB.
 I have worked on several projects, including an AI-powered virtual tutor using RAG and LLMs, and a public hazard detection platform using computer vision and deep learning technologies.
 Along with academics and projects, I actively practice problem solving and continuously improve my technical skills through certifications and hands-on learning.
-I am eager to start my professional career where I can contribute, learn from experienced professionals, and grow as a software engineer.
-Thank you.
 
 PROJECTS-
 
@@ -16,3 +14,5 @@ Developed an AI-powered virtual tutor for personalized learning using natural la
 
 CIVIC SHIELD-AI POWERED PUBLIC HAZARD INTELLIGENCE PLATFORM:
 Developed an AI-powered platform to detect public hazards like garbage, road damage, and drainage issues using computer vision, enabling quick response through NGO collaboration. Implemented a multi-stage workflow including image classification, risk analysis, NGO assignment, verification, and an analytics dashboard. Built using React 18, Node.js, Express.js, MongoDB, Python (OpenCV), TensorFlow, Keras, and supporting technologies to ensure efficient and transparent operations.
+
+Thank you.
