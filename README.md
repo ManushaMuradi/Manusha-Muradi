@@ -7,6 +7,7 @@ I am eager to start my professional career where I can contribute, learn from ex
 Thank you.
 
 PROJECTS-
+
 ONLINE APPLICATION FOR WELFARE AND IDENTITY CERTIFICATES:
 Developed a web-based platform that allows users to apply for identity and welfare certificates through a user-friendly interface. The system enhances efficiency and transparency by keeping users informed at every stage. Integrated notification services to provide timely updates, using technologies such as HTML5, Tailwind CSS, JavaScript, Express.js, MongoDB, and Twilio.
 
