@@ -1,6 +1,6 @@
 Good morning/afternoon sir/madam.
 My name is Manusha Muradi, and I am currently pursuing my Bachelor of Technology in Computer Science at Sreyas Institute of Engineering and Technology with a CGPA of 9.45.
-I have a strong interest in Full Stack Development and Artificial Intelligence. I am skilled in C, Python, Java, and web technologies such as React.js, Node.js, Express.js, and MongoDB.
+I have a strong interest in Full Stack Development and Artificial Intelligence. I am skilled in C, Python, and web technologies such as React.js, Node.js, Express.js, and MongoDB.
 I have worked on several projects, including an AI-powered virtual tutor using RAG and LLMs, and a public hazard detection platform using computer vision and deep learning technologies.
 Along with academics and projects, I actively practice problem solving and continuously improve my technical skills through certifications and hands-on learning.
 
